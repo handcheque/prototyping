@@ -1,24 +1,18 @@
 {
   "payment": [  
-    { "title" : "VISA", "number" : "1234", "name" : "Mister Magu" },
-    { "title" : "Mastercard", "number" : "5462", "name" : "Miyagi-san" },
-    { "title" : "Mastercard", "number" : "5462", "name" : "Miyagi-san" },
-    { "title" : "Wuzzi", "number" : "5462", "name" : "Miyagi-san" },
-    { "title" : "fiver", "number" : "5462", "name" : "Miyagi-san" },
-    { "title" : "Walter", "number" : "5462", "name" : "Ageeh" },
-    { "title" : "MC PLatinum", "number" : "5462", "name" : "Ageeh" },
-    { "title" : "Wuzzi", "number" : "5462", "name" : "Miyagi-san" },
-    { "title" : "VISA Silver", "number" : "1234", "name" : "Horst" },
-    { "title" : "Maestro", "number" : "1234", "name" : "Susi" }
+    { "title" : "Maestro", "number" : "1234", "name" : "Mister Magu" },
+    { "title" : "VPAY", "number" : "1234", "name" : "Mister Magu" },
+    { "title" : "mastercard", "number" : "1234", "name" : "Mister Magu" },
+    { "title" : "VISA", "number" : "5462", "name" : "Miyagi-san" },
+    { "title" : "American Express", "number" : "5462", "name" : "Miyagi-san" }
   ],
 
   "loyalty": [  
+    { "title" : "Billa", "number" : "ABC6123" },
+    { "title" : "Hartlauer", "number" : "ABC6123" },
+    { "title" : "BIPA", "number" : "ABC6123" },
     { "title" : "dm", "number" : "ABC6123" },
-    { "title" : "Cineplexx", "number" : "ABC6123" },
-    { "title" : "BILLA", "number" : "ABC6123" },
-    { "title" : "Friseur", "number" : "ABC6123" },
-    { "title" : "Ramada", "number" : "ABC6123" },
-    { "title" : "DriveNow", "number" : "ABC6123" }
+    { "title" : "Merkur", "number" : "ABC6123" }
   ],
 
   "system": [  
